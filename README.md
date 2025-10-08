@@ -26,21 +26,32 @@ flutter_tts – Text-to-Speech
 Platform: Android (API 21–34)
 
 
-<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/701646db-634c-47d8-be65-46e9b33d63e5" /> <br>
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/b0638bfb-bbe1-4b7a-b606-6affd01fb02b" /> <br>
 
-<img align ="center" width="367" height="831" alt="Image" src="https://github.com/user-attachments/assets/9328458b-c890-4061-ab35-b6359a3e440e" /> <br>
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/b5af0e6f-9699-4f9d-a764-66d793503f8c" /> <br>
 
-<img align ="center" width="380" height="831" alt="Image" src="https://github.com/user-attachments/assets/844a71ec-f4ef-489d-b8c6-293c6a505da5" /> <br>
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/e745bf4a-b044-43b5-80c8-8e22f1c4d81a" /> <br>
 
-<img align ="center" width="375" height="830" alt="Image" src="https://github.com/user-attachments/assets/a4f52add-1219-440e-8ea6-28a379668d95" /> <br>
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/24e81fe1-90f0-4552-8daa-61dfce98ec36" /> <br>
 
-<img align ="center" width="370" height="829" alt="Image" src="https://github.com/user-attachments/assets/f30f3ff5-5006-4f94-b4c2-78cb2e505fc2" /> <br>
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/38b68389-ad18-47df-8afb-fb418a0285a5" /> <br>
 
-<img align ="center" width="370" height="829" alt="Image" src="https://github.com/user-attachments/assets/5573b60b-d354-41d7-9e87-37ff407fdbd3" /> <br>
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/102dfc39-cab7-4ae6-9cec-e33f41f4d6d7" /> <br>
 
-<img align ="center" width="370" height="829" alt="Image" src="https://github.com/user-attachments/assets/7aabfc39-5ac7-4ac1-b52d-91012eeb7c58" /> <br>
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/6f5e7df6-570a-401c-a1bb-a1a30813dd7e" /> <br>
 
-<img align ="center" width="370" height="829" alt="Image" src="https://github.com/user-attachments/assets/e301d420-f19e-408a-80f1-8e02c5a38e66" /> <br>
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/00c03756-f94e-4ccc-8296-0147dcefe0e8" /> <br>
+
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/f5263888-244a-424f-8d56-4b5f0ca008bb" /> <br>
+
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/0887a593-76e7-4a8e-952d-e750ae99bdb9" /> <br>
+
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/775a81ff-f791-4836-9f32-4b1308d5fc67" /> <br>
+
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/72946caa-61b6-4d5d-a622-2974508aef3b" /> <br>
+
+<img align ="center" width="370" height="835" alt="Image" src="https://github.com/user-attachments/assets/7b0e3156-334c-43d6-8c10-2af7cd3bfe63" /> <br>
+
 
 
 
