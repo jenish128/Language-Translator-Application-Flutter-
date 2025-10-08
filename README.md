@@ -40,6 +40,8 @@ Platform: Android (API 21–34)
 
 <img align ="center" width="370" height="829" alt="Image" src="https://github.com/user-attachments/assets/7aabfc39-5ac7-4ac1-b52d-91012eeb7c58" /> <br>
 
+![Image](https://github.com/user-attachments/assets/e301d420-f19e-408a-80f1-8e02c5a38e66)
+
 
 📂 Project Structure
 css
